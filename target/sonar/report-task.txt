@@ -1,0 +1,6 @@
+projectKey=Rainbow2:OpeChimera
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/Rainbow2:OpeChimera
+ceTaskId=AWfG-qtvFyfImJ79ft6t
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWfG-qtvFyfImJ79ft6t
