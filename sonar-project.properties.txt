@@ -1,0 +1,2 @@
+sonar.sources=src
+sonar.jacoco.reportPath=target\\coverage-reports\\jacoco-unit.exec
