@@ -1,4 +1,4 @@
-package Hardcore;
+package Rainbow2;
 
 import static org.junit.Assert.assertTrue;
 

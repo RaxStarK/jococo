@@ -1,6 +1,0 @@
-projectKey=Hardcore:U
-serverUrl=http://localhost:9000
-serverVersion=6.7.4.38452
-dashboardUrl=http://localhost:9000/dashboard/index/Hardcore:U
-ceTaskId=AWO8S421i7JoR2y3J7KX
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWO8S421i7JoR2y3J7KX
